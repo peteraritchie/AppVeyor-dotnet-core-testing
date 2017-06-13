@@ -10,7 +10,7 @@
     <PackageLicenseUrl>https://raw.githubusercontent.com/peteraritchie/Messaging.Primitives/develop/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/peteraritchie/Messaging.Primitives</PackageProjectUrl>
     <PackageTags>Messaging message-oriented events primitives</PackageTags>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
